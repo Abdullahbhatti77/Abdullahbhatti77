@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ETS (Final Year Project)](https://www.educist.net)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently mastering **Next JS**
 
 - 👯 I’m looking to collaborate on **web development technologies**
 
