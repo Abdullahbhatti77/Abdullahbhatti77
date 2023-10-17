@@ -4,19 +4,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ETS (Final Year Project)](https://www.educist.net)
+- 🔭 I’m currently working for Programmers Force Private Limited.
 
-- 🌱 I’m currently mastering **Next JS**
+- 🌱 I’m currently working in **VUE JS**
 
 - 👯 I’m looking to collaborate on **web development technologies**
 
-- 👨‍💻 All of my projects are available at [https://abportfolio.site](https://abportfolio.site)
+- 👨‍💻 All of my projects are available at [https://abdullah.dev](https://abdullahdev10.netlify.app))
 
 - 💬 Ask me about **Web Technologies**
 
 - 📫 How to reach me **abdullah.dev160@gmail.com**
 
-- 📄 Know about my experiences [https://abportfolio.site](https://abportfolio.site)
+- 📄 Know about my experiences [https://abdullah.dev](https://abdullahdev10.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
