@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently looking for a new role as Full-Stack Developer.
+- 🔭 I’m currently working for Sumato Solutions.
 
-- 🌱 I’m currently working in **MERN Stack**
+- 🌱 I’m currently working in **Vue JS**
 
 - 👯 I’m looking to collaborate on **web development technologies**
 
