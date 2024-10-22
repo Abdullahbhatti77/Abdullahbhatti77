@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **web development technologies**
 
-- 👨‍💻 All of my projects are available at [https://abdullah.dev](https://abdullahdev10.netlify.app))
+- 👨‍💻 All of my projects are available at [https://abdullah.dev](https://mabdullahdev.vercel.app))
 
 - 💬 Ask me about **Web Technologies**
 
