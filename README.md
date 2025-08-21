@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h3 align="center">Solution Driven Web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working for Sumato Solutions.
 
-- 🌱 I’m currently working in **Vue JS**
+- 🌱 I’m currently working in **Angular JS**
 
 - 👯 I’m looking to collaborate on **web development technologies**
 
