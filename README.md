@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working for Sumato Solutions.
 
-- 🌱 I’m currently working in **Angular JS**
+- 🌱 I’m currently working in **Angular & Typescript**
 
 - 👯 I’m looking to collaborate on **web development technologies**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abdullah.dev160@gmail.com**
 
-- 📄 Know about my experiences [https://abdullah.dev](https://abdullahdev10.netlify.app)
+- 📄 Know about my experiences [https://abdullah.dev](https://mabdullahdev.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
